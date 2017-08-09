@@ -1,0 +1,5 @@
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\DivideBigNumbers\ExtMath\bin\Debug\ExtMath.dll
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\DivideBigNumbers\ExtMath\bin\Debug\ExtMath.pdb
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\DivideBigNumbers\ExtMath\obj\Debug\ExtMath.csprojResolveAssemblyReference.cache
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\DivideBigNumbers\ExtMath\obj\Debug\ExtMath.dll
+C:\Users\Roger\Documents\Visual Studio 2015\Projects\DivideBigNumbers\ExtMath\obj\Debug\ExtMath.pdb
